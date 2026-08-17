@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./assets/floating-hand.jpg"
+    alt="Digital hands"
+    width="100%"
+  />
+</p>
+
 # Hi 👋, I'm Himanshu
 
 <p align="center">
