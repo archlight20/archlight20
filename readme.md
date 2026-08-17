@@ -1,87 +1,91 @@
-# Himanshu                                          
+<div align="center">
 
-**Software Developer**
+# Hi 👋, I'm Himanshu
 
-I'm Himanshu, a Computer Science student focused on building software systems and exploring modern web technologies, backend development, and distributed systems.
+**Computer Science Student · Software Developer**
 
-Currently working on projects involving **React, TypeScript, and Python**, with a particular focus on protocol development and information processing systems.
+Building software systems with React, TypeScript, and Python — focused on protocol design and information processing.
 
----
-
-## Current Work
-
-### RIDTP — Root Identity Distribution and Transfer Protocol
-
-Working on **RIDTP (Root Identity Distribution and Transfer Protocol)**, a protocol-focused project exploring mechanisms for identity distribution and transfer.
-
-**Technology:** React · TypeScript · Python
+</div>
 
 ---
 
-### Information Filtering in Disaster Platform
+### 🔗 Connect
 
-Developing an **information filtering platform for disaster scenarios**, focused on processing and delivering relevant information efficiently in situations where information accuracy and prioritization are critical.
-
-**Technology:** React · TypeScript · Python
-
----
-
-## Technical Skills
-
-### Languages
-
-* Python
-* TypeScript
-* JavaScript
-* C
-
-### Development
-
-* React
-* REST APIs
-* Frontend Development
-* Data Processing
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
+<p align="center">
+  <a href="[YOUR_GITHUB_URL]">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="[YOUR_LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:[YOUR_EMAIL]">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## Currently Learning
+### 💻 Tech Stack
 
-* Advanced React & TypeScript
-* Python Backend Development
-* System Design
-* Distributed Systems
-* Data Structures & Algorithms
-* Artificial Intelligence & Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,py,js,c,git,github,vscode" alt="Tech stack icons"/>
+</p>
 
 ---
 
-## Areas of Interest
+### 🚀 Current Work
 
-* Software Engineering
-* Distributed Systems
-* Protocol Design
-* Full-Stack Development
-* Artificial Intelligence
-* Data Science
+**RIDTP — Root Identity Distribution and Transfer Protocol**
+Protocol-focused project exploring mechanisms for identity distribution and transfer between root and peer nodes.
+`React` `TypeScript` `Python`
 
----
-
-## GitHub Activity
-
-I'm continuously working on projects that help me strengthen my understanding of **software architecture, problem solving, system design, and real-world application development**.
+**Information Filtering — Disaster Response Platform**
+A filtering platform for disaster scenarios that processes, prioritizes, and delivers relevant information efficiently.
+`React` `TypeScript` `Python`
 
 ---
 
-## Contact
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-**GitHub:** [Himanshu](https://github.com/)
+### 🧭 Areas of Interest
+- Software Engineering
+- Full-Stack Development
+- Distributed Systems
+- Protocol Design
+- Information Processing
+- Artificial Intelligence
+- Data Science
+- System Design
+
+</td>
+<td valign="top" width="50%">
+
+### 📚 Currently Learning
+- Advanced React & TypeScript
+- Python Backend Development
+- System Design
+- Distributed Systems
+- Data Structures & Algorithms
+- Artificial Intelligence & Data Science
+
+</td>
+</tr>
+</table>
 
 ---
 
-> Building systems, solving problems, and learning continuously.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="165"/>
+</p>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
