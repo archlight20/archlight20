@@ -12,6 +12,15 @@
   Computer Science Student · Software Developer
 </p>
 
+<h3 align = "center"> 
+  
+<p align="center">
+  <img src="./assets/project_typewriter.gif"
+       width="900"
+       alt="Projects">
+</p>
+
+</h3>
 
 ## 📊 GitHub Stats
 
