@@ -15,7 +15,7 @@
 <h3 align = "center"> 
   
 <p align="center">
-  <img src="./assets/project_typewriter.gif"
+  <img src="./assest/project_typewriter.gif"
        width="900"
        alt="Projects">
 </p>
